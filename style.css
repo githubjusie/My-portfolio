@@ -141,13 +141,13 @@ section h2 {
   margin-bottom: 1rem;
 }
 
-/* ===== About Section ===== */
+
 #about p {
   color: #c9d1d9;
   margin-bottom: 1rem;
 }
 
-/* ===== Skills Section ===== */
+
 .skills-grid {
   display: flex;
   flex-wrap: wrap;
@@ -197,7 +197,7 @@ section h2 {
   color: #8b949e;
 }
 
-/* ===== Journey Section ===== */
+
 #journey ul {
   list-style: none;
   padding-left: 0;
@@ -262,4 +262,3 @@ footer {
     flex: 1 1 100%;
   }
 }
-
