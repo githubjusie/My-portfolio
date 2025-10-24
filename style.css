@@ -1,4 +1,4 @@
-/* ===== Global Styles ===== */
+
 body {
   background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
               url('blank.jpg') center/cover no-repeat;
@@ -9,7 +9,7 @@ body {
   line-height: 1.7;
 }
 
-/* ===== Header Section ===== */
+
 header {
   background: #161b22cc;
   padding: 2rem 1rem;
@@ -27,7 +27,7 @@ header {
   flex-wrap: wrap;
 }
 
-/* Circular logos */
+
 .side-logo {
   width: 110px;
   height: 110px;
@@ -43,7 +43,7 @@ header {
   box-shadow: 0 0 25px rgba(88,166,255,0.4);
 }
 
-/* ID Card Box */
+
 .id-box {
   background: rgba(255,255,255,0.06);
   backdrop-filter: blur(12px);
@@ -78,7 +78,7 @@ header {
   color: #c9d1d9;
 }
 
-/* ===== Hero Section ===== */
+
 #hero {
   text-align: center;
   padding: 4rem 1rem 5rem;
@@ -113,7 +113,7 @@ header {
   transform: scale(1.05);
 }
 
-/* ===== Main Sections ===== */
+
 main {
   max-width: 950px;
   margin: 2.5rem auto;
@@ -181,7 +181,7 @@ section h2 {
   transform: scale(1.05);
 }
 
-/* ===== Projects Section ===== */
+
 .project {
   margin-bottom: 1rem;
   padding-left: 1rem;
@@ -219,7 +219,7 @@ section h2 {
   font-size: 1.2rem;
 }
 
-/* ===== Contact Section ===== */
+
 #contact a {
   color: #58a6ff;
   text-decoration: none;
@@ -236,7 +236,7 @@ section h2 {
   text-align: center;
 }
 
-/* ===== Footer ===== */
+
 footer {
   text-align: center;
   background: #161b22;
@@ -247,7 +247,7 @@ footer {
   letter-spacing: 0.3px;
 }
 
-/* ===== Responsive Design ===== */
+
 @media (max-width: 768px) {
   .header-logos {
     flex-direction: column;
@@ -262,3 +262,4 @@ footer {
     flex: 1 1 100%;
   }
 }
+
